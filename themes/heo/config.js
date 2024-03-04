@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享技巧',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'WAEASON.TOP',
-  HEO_HERO_TITLE_4: '前进！前进！不择手段地前进！',
+  HEO_HERO_TITLE_4: '面壁者罗辑，我是你的破壁人！',
   HEO_HERO_TITLE_5: '自然选择！前进四！',
   HEO_HERO_TITLE_LINK: 'https://waeason.top',
 
@@ -105,10 +105,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '这是计划的一部分',
+  HEO_SOCIAL_CARD_TITLE_1: '钟摆',
   HEO_SOCIAL_CARD_TITLE_2: '你的无畏来源于无知',
-  HEO_SOCIAL_CARD_TITLE_3: '给岁月以文明,给时光以生命。',
-  HEO_SOCIAL_CARD_URL: 'https://waeason.com',
+  HEO_SOCIAL_CARD_TITLE_3: '给岁月以文明,\r给时光以生命。',
+  HEO_SOCIAL_CARD_URL: 'https://waeason.top',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
