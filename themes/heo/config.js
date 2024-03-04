@@ -1,12 +1,12 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-03-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://waeason.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://waeason.com' }
+    { title: '欢迎来到我的博客', url: 'https://waeason.top' },
+    { title: '后续将升级进入网盘系统', url: 'https://waeason.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -17,10 +17,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享技巧',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'WAEASON.COM',
-  HEO_HERO_TITLE_4: '自然选择！前进四！',
-  HEO_HERO_TITLE_5: '北海！在那以前要多想！',
-  HEO_HERO_TITLE_LINK: 'https://waeason.com',
+  HEO_HERO_TITLE_3: 'WAEASON.TOP',
+  HEO_HERO_TITLE_4: '前进！前进！不择手段地前进！',
+  HEO_HERO_TITLE_5: '自然选择！前进四！',
+  HEO_HERO_TITLE_LINK: 'https://waeason.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -105,9 +105,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '纪念碑',
-  HEO_SOCIAL_CARD_TITLE_2: '给岁月以文明,而不是给文明以岁月',
-  HEO_SOCIAL_CARD_TITLE_3: '你的无畏来源于无知',
+  HEO_SOCIAL_CARD_TITLE_1: '这是计划的一部分',
+  HEO_SOCIAL_CARD_TITLE_2: '你的无畏来源于无知',
+  HEO_SOCIAL_CARD_TITLE_3: '给岁月以文明,给时光以生命。',
   HEO_SOCIAL_CARD_URL: 'https://waeason.com',
 
   // *****  以下配置无效，只是预留开发 ****
